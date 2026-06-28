@@ -2,9 +2,9 @@
 
 
 # Testing
-item_name = "mango"
-item_price = 1.50
-item_stock_quantity = 50
+item_name = "Eggs"
+item_price = 3.99
+item_stock_quantity = 120
 in_stock = True
 
 print("Item : ", item_name)
